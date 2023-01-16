@@ -1,1 +1,1 @@
-# nix-trainee-1-3
+# nix-beginner-6
